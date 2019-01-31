@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Economica|Ubuntu|Ubuntu+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Abel|Abril+Fatface|Advent+Pro|Allura|Amatic+SC|Bad+Script|Calligraffitti|Caveat|Cinzel|Clicker+Script|Comfortaa|Cookie|Dancing+Script|Dosis|Economica|Expletus+Sans|Great+Vibes|Handlee|Julius+Sans+One|Jura|Kaushan+Script|Khand|Lemonada|Marck+Script|Megrim|Oleo+Script|Petit+Formal+Script|Pompiere|Rajdhani|Sacramento|Shrikhand|Wire+One');
+
+.top {
+    width: 80%;
+    margin: auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .4s ease-in-out;
+}
+
+.icon{
+  width: 30%; height: 50%;
+  position: absolute;
+  top: -5%; left: 70%;
+}
+
+.nav {
+    background-color: #FFDD89;
+    color: #81997E;
+    position: relative;
+}
+
+.header{
+    background-image: url("http://www.powerpointhintergrund.com/uploads/food-background-2.jpg");
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  position: relative;
+}
+
+
